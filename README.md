@@ -10,3 +10,7 @@ duccio.rocchini@unibo.it
 ## Data used: 🛰️
 the data are downloaded from: the [Earth Observatory](https://earthobservatory.nasa.gov/)
 
+## Paper on github 🗺️
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14108
+Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P., Sánchez Reyes, L. L., ... & Crystal‐Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364-1380.
+
